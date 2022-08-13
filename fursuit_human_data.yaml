@@ -1,0 +1,9 @@
+train: ../FH-YOLOv5-Facial-Recognition/images/train/ 
+val:  ../FH-YOLOv5-Facial-Recognition/images/val/
+test: ../FH-YOLOv5-Facial-Recognition/images/test/
+
+# number of classes
+nc: 2
+
+# class names
+names: ["Fursuit","Human"]
